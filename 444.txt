@@ -4,24 +4,7 @@ line 3
 4
 5
 6
-77
-88
-99
-
 1
-
-11
-<<<<<<< HEAD
-sdfsdfs
-=======
-sdfsdfsdfs
->>>>>>> b657b9da2b104f9ccb62d0da74cebda9fcabcfe4
-<<<<<<< HEAD
-sdsd
-=======
-dsfsdfsf
->>>>>>> 51f4b2839502372cb13a38bf2cc5a04cc148e383
-
 1
 3
 4
