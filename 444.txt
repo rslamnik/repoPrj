@@ -1,8 +1,4 @@
 test merge
 Added 2nd line
 line 3
-<<<<<<< HEAD
-5
-=======
 4
->>>>>>> 5f307465faab0bc791f513f083198a1f2cbe3278
