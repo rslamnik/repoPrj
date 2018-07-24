@@ -1,2 +1,3 @@
 test merge
 Added 2nd line
+line 3
